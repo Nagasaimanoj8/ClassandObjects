@@ -1,0 +1,8 @@
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\ClassandObjects\objectaandclass\obj\Debug\objectaandclass.csproj.AssemblyReference.cache
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\ClassandObjects\objectaandclass\obj\Debug\objectaandclass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\ClassandObjects\objectaandclass\obj\Debug\objectaandclass.csproj.CoreCompileInputs.cache
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\ClassandObjects\objectaandclass\bin\Debug\objectaandclass.exe.config
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\ClassandObjects\objectaandclass\bin\Debug\objectaandclass.exe
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\ClassandObjects\objectaandclass\bin\Debug\objectaandclass.pdb
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\ClassandObjects\objectaandclass\obj\Debug\objectaandclass.exe
+C:\Users\Bharat\Desktop\bridzelabz\rfp\new\ClassandObjects\objectaandclass\obj\Debug\objectaandclass.pdb
