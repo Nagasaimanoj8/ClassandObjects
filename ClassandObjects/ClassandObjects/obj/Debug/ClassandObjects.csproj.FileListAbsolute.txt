@@ -1,8 +1,0 @@
-C:\Users\Bharat\Desktop\bridzelabz\rfp\ClassandObjects\ClassandObjects\bin\Debug\ClassandObjects.exe.config
-C:\Users\Bharat\Desktop\bridzelabz\rfp\ClassandObjects\ClassandObjects\bin\Debug\ClassandObjects.exe
-C:\Users\Bharat\Desktop\bridzelabz\rfp\ClassandObjects\ClassandObjects\bin\Debug\ClassandObjects.pdb
-C:\Users\Bharat\Desktop\bridzelabz\rfp\ClassandObjects\ClassandObjects\obj\Debug\ClassandObjects.csproj.AssemblyReference.cache
-C:\Users\Bharat\Desktop\bridzelabz\rfp\ClassandObjects\ClassandObjects\obj\Debug\ClassandObjects.csproj.SuggestedBindingRedirects.cache
-C:\Users\Bharat\Desktop\bridzelabz\rfp\ClassandObjects\ClassandObjects\obj\Debug\ClassandObjects.csproj.CoreCompileInputs.cache
-C:\Users\Bharat\Desktop\bridzelabz\rfp\ClassandObjects\ClassandObjects\obj\Debug\ClassandObjects.exe
-C:\Users\Bharat\Desktop\bridzelabz\rfp\ClassandObjects\ClassandObjects\obj\Debug\ClassandObjects.pdb
